@@ -1,3 +1,5 @@
+//if else
+
 var iphonePrice = 79000;
 var myBudget = 95000;
 //if iphone price is less than my budget, I will buy the phone
@@ -42,3 +44,6 @@ else{
 }
 //output: I will eat potato
 //cause: if condition is not full-filled or condition is false that's why the else is printed.
+
+//=============================================================================================
+
